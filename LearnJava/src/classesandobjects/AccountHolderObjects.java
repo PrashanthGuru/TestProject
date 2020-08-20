@@ -16,8 +16,8 @@ public class AccountHolderObjects {
 		System.out.println("Is Tom Eligable for Ceridt Card : "+tom.eligableForCreditCard);
 		
 		
-		//henry.firstName="Henry";
-		//henry.lastName="Hill";
+		henry.firstName="Henry";
+		henry.lastName="Hill";
 		henry.age=31;
 		henry.accountBalance=20000;
 		henry.checkEligabilityForCreditCard();
